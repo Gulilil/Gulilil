@@ -1,6 +1,8 @@
 <h1 align="center">👋 <bold>Hi</bold>, I'm Juan Christopher Santoso
 </h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gulilil&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
+
 <!--
 
 Here are some ideas to get you started:
