@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 
 
 ### **Github Stats**
+<!---
 <div>
 <p><img src="https://github-readme-stats.vercel.app/api?username=Gulilil&show_icons=true&locale=en&theme=tokyonight" alt="githubstats" width=300/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulilil&layout=compact&theme=tokyonight" alt="top_languages" /></p>
 </div>
-
+-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gulilil&theme=dracula" alt="Github Trophy" /></a> </p>
 
