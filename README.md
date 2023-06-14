@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h3> <b> Github Stats </b> </h3>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=Gulilil&show_icons=true&locale=en&theme=tokyonight" alt="githubstats" width=300/></p>
+<!--   <p><img src="https://github-readme-stats.vercel.app/api?username=Gulilil&show_icons=true&locale=en&theme=tokyonight" alt="githubstats" width=300/></p> -->
   <p><img src="https://github-profile-trophy.vercel.app/?username=Gulilil&theme=onedark&column=4&margin-w=5&margin-h=5" alt="Github Trophy" /> </p>
 </div>
 
