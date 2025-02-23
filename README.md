@@ -1,4 +1,4 @@
-<h1 align="center">👋 <bold>Hi</bold>, I'm Juan Christopher Santoso </h1>
+<h1 align="center">👋 <bold>Hi</bold>, I'm Juan Christopher </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gulilil&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
 
@@ -16,11 +16,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  <img src="gif/sad_cat.gif" width="100" height="100"/>
+  <img src="gif/stress_cat.gif" width="100" height="100"/>
+  <img src="gif/scared_cat.gif" width="100" height="100"/>
+</div>
+
 
 
 <div align="center">
   <h3> <b> Github Stats </b> </h3>
-<!--   <p><img src="https://github-readme-stats.vercel.app/api?username=Gulilil&show_icons=true&locale=en&theme=tokyonight" alt="githubstats" width=300/></p> -->
 
   <div align="center" style="display:flex;justify-content:center;"> 
   <p><img src="https://github-profile-trophy.vercel.app/?username=Gulilil&theme=onedark&column=3&margin-w=5&margin-h=5" alt="Github Trophy" /> </p>
@@ -41,5 +46,5 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<!-- 
-<p align="right"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulilil&layout=donut&theme=tokyonight" alt="top_languages" /></p> -->
+
+
